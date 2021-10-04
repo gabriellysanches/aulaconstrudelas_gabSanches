@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    display: inline-block;
+    background-color: blueviolet;    
+}
+  
+h1 {
+    background-color: white;
+    font-family: 'Gemunu Libre', sans-serif;
+    color: blueviolet;
+    border-radius: 30px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.tela-azul{
+    color:white;
+    width: 600px;
+    height: 400px;
+    justify-items: center;
+    align-items: center;
+    border-radius: 20px;
+    padding: 25px;
+    margin-left: 300px;
+}
+    
+p {
+    /*text-align: left;*/
+    font-size: 18px;
+  
+}
+
+.tela-azul img {
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+}
