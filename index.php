@@ -20,7 +20,7 @@
             <b><u>- Product Owner:</u></b> Maximiza a Entrega de Valor. Ordenar, analisar as ideias, faz o backlog. Prioriza e gerencia o Backlog do Produto.
         </p>
 
-        <img src="/imgs/scrum_framework.jpg" alt="scrum-framework">
+        <img src="scrum_framework.jpg" alt="scrum-framework">
 
     </div> 
     
